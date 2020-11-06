@@ -1,0 +1,9 @@
+name: ceci-mltf2020
+channels:
+  - conda-forge
+dependencies:
+  - tensorflow=2.3.0
+  - matplotlib
+  - pip
+  - pip:
+    - nbgitpuller
